@@ -1,0 +1,43 @@
+<svg width="1600" height="1000" viewBox="0 0 1600 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1220"/>
+      <stop offset="0.55" stop-color="#111827"/>
+      <stop offset="1" stop-color="#0B1220"/>
+    </linearGradient>
+    <filter id="b" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="28" />
+    </filter>
+  </defs>
+
+  <rect width="1600" height="1000" fill="url(#bg)"/>
+  <circle cx="460" cy="520" r="250" fill="#38BDF8" opacity="0.16" filter="url(#b)"/>
+  <circle cx="1160" cy="330" r="260" fill="#F59E0B" opacity="0.18" filter="url(#b)"/>
+
+  <g opacity="0.92">
+    <path d="M320 860V310C320 260 360 220 410 220H790C840 220 880 260 880 310V860H320Z" fill="white" opacity="0.10"/>
+    <path d="M930 860V240C930 200 962 168 1002 168H1220C1260 168 1292 200 1292 240V860H930Z" fill="white" opacity="0.09"/>
+
+    <g opacity="0.85">
+      <rect x="360" y="330" width="110" height="80" rx="18" fill="white" opacity="0.12"/>
+      <rect x="500" y="330" width="110" height="80" rx="18" fill="white" opacity="0.10"/>
+      <rect x="640" y="330" width="110" height="80" rx="18" fill="white" opacity="0.14"/>
+
+      <rect x="360" y="440" width="110" height="80" rx="18" fill="white" opacity="0.10"/>
+      <rect x="500" y="440" width="110" height="80" rx="18" fill="white" opacity="0.14"/>
+      <rect x="640" y="440" width="110" height="80" rx="18" fill="white" opacity="0.10"/>
+    </g>
+
+    <g opacity="0.84">
+      <rect x="980" y="270" width="120" height="86" rx="18" fill="white" opacity="0.12"/>
+      <rect x="1130" y="270" width="120" height="86" rx="18" fill="white" opacity="0.10"/>
+      <rect x="980" y="384" width="120" height="86" rx="18" fill="white" opacity="0.10"/>
+      <rect x="1130" y="384" width="120" height="86" rx="18" fill="white" opacity="0.12"/>
+      <rect x="980" y="498" width="120" height="86" rx="18" fill="white" opacity="0.12"/>
+      <rect x="1130" y="498" width="120" height="86" rx="18" fill="white" opacity="0.10"/>
+    </g>
+
+    <path d="M1040 860V710C1040 680 1064 656 1094 656H1136C1166 656 1190 680 1190 710V860H1040Z" fill="white" opacity="0.16"/>
+  </g>
+</svg>
+
