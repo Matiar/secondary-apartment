@@ -17,7 +17,7 @@ export function Brand({ className }: { className?: string }) {
         <span className="block text-sm font-semibold tracking-tight">
           Dhaka Prime Flips
         </span>
-        <span className="block text-xs text-muted">Secondary apartments • Dhaka</span>
+        <span className="block text-xs text-muted">Secondary Apartments • Dhaka</span>
       </span>
     </Link>
   );
