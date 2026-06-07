@@ -84,8 +84,8 @@ export function Hero() {
               <CardContent className="p-0">
                 <div className="relative aspect-[5/4] w-full">
                   <Image
-                    src="/images/hero.svg"
-                    alt="Premium apartment illustration"
+                    src="/images/hero.jpg"
+                    alt="Premium modern apartment living room with natural light"
                     fill
                     className="object-cover"
                     priority

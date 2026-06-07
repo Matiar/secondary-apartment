@@ -19,7 +19,7 @@ export const listings: Listing[] = [
     baths: 3,
     sqft: 1720,
     priceBdt: "৳ 3.45 Cr",
-    imageSrc: "/images/apartment-1.svg",
+    imageSrc: "/images/apartment-1.jpg",
     badges: ["Verified", "Ready-to-move"],
   },
   {
@@ -30,7 +30,7 @@ export const listings: Listing[] = [
     baths: 3,
     sqft: 1650,
     priceBdt: "৳ 3.15 Cr",
-    imageSrc: "/images/apartment-2.svg",
+    imageSrc: "/images/apartment-2.jpg",
     badges: ["Verified", "Prime"],
   },
   {
@@ -41,7 +41,7 @@ export const listings: Listing[] = [
     baths: 4,
     sqft: 2050,
     priceBdt: "৳ 3.95 Cr",
-    imageSrc: "/images/apartment-3.svg",
+    imageSrc: "/images/apartment-3.jpg",
     badges: ["Verified", "Valuation-ready"],
   },
 ];
