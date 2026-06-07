@@ -32,11 +32,6 @@ export function Footer() {
                   </Link>
                 </li>
                 <li>
-                  <Link className="hover:text-foreground" href="/listings">
-                    Verified listings
-                  </Link>
-                </li>
-                <li>
                   <Link className="hover:text-foreground" href="/process">
                     How it works
                   </Link>

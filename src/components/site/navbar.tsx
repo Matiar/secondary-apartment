@@ -12,7 +12,6 @@ import { Brand } from "@/components/site/brand";
 const nav = [
   { href: "/buy", label: "Buy" },
   { href: "/sell", label: "Sell" },
-  { href: "/listings", label: "Verified listings" },
   { href: "/process", label: "How it works" },
 ];
 

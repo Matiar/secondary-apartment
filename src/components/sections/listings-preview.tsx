@@ -26,7 +26,7 @@ export function ListingsPreview() {
           </Reveal>
           <Reveal delay={0.05}>
             <Button variant="secondary" asChild>
-              <Link href="/listings">
+              <Link href="/buy">
                 View all listings
                 <MoveRight className="size-4" aria-hidden="true" />
               </Link>
